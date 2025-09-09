@@ -4,7 +4,7 @@ A modern, responsive React web application for discovering, searching, and explo
 
 ---
 
-> _This project was built with the help of [ChatGPT](https://chat.openai.com/)._
+> _This project was built with the help of [ChatGPT](https://chatgpt.com/share/68c04b8d-fa9c-8001-b60a-928643f58208)._
 
 ---
 

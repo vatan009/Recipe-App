@@ -1,4 +1,4 @@
-# 🍳 Kitchen App (k2)
+# 🍳 Kitchen App 
 
 A modern, responsive React web application for discovering, searching, and exploring meal recipes. Built with Vite for blazing-fast development, Kitchen App features a clean UI, modular code, and seamless integration with [TheMealDB API](https://www.themealdb.com/api.php).
 

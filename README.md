@@ -4,6 +4,10 @@ A modern, responsive React web application for discovering, searching, and explo
 
 ---
 
+> _This project was built with the help of [ChatGPT](https://chat.openai.com/)._
+
+---
+
 ## 🚀 Features
 
 - **Smart Search:** Find meals by name, ingredient, category, or area.
@@ -16,11 +20,14 @@ A modern, responsive React web application for discovering, searching, and explo
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshots & Demo
 
 | Home Page | Search Categories | Search Page | Search Results |
 |-----------|------------------|-------------|---------------|
 | ![Home Page](./public/images/homePage.png) | ![Categories](./public/images/SearchCategories.png) | ![Search Page](./public/images/SearchPage.png) | ![Results](./public/images/SearchResults.png) |
+
+**Responsive Design Demo:**  
+![Responsiveness](./public/images/responsiveness.gif)
 
 ---
 
@@ -32,6 +39,7 @@ k2/
 │   ├── vite.svg
 │   └── images/
 │       ├── homePage.png
+│       ├── responsiveness.gif
 │       ├── SearchCategories.png
 │       ├── SearchPage.png
 │       └── SearchResults.png
@@ -147,4 +155,3 @@ yarn lint
 ```
 
 ---
-
